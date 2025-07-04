@@ -1,6 +1,6 @@
 # 💫 About Me:
 Focused on learning back-end development and frameworks!
-https://miagomezwebsite.onrender.com/#skills
+https://miagomezwebsite.onrender.com/#
 
 
 ## 🌐 Socials:
