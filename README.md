@@ -3,6 +3,7 @@
 <div align="center">
   <h1>Hi, I'm Mia :P! </h1>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo5YTVxcGY5NW9xaGo4eDQ4Y2g5NDh4dXFucW05MWV1ZGRteDduNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SazcqpR9b63r6t91LX/giphy.gif" width="200" alt="sponge"/>
+  
 <p align="center"> I'm a current rising junior @ Emory studying CS + AI, with a passion for creating projects that have real impact!</p>
 <p align="center"> Currently targeting SWE internships...</p>
 
