@@ -63,8 +63,8 @@
 
 
 <h1 align="center"> A bit about me...</h2>
-<h2 alight="center"> I'm a current rising junior @ Emory studying CS + AI, with a passion for creating projects that have real impact!</h2>
-<h2>Feel free to take a look around my repositories! Reach out for any questions or if you want to collaborate :) I'm always open to creating new ideas with passionate people!</h2>
+<p alight="center"> I'm a current rising junior @ Emory studying CS + AI, with a passion for creating projects that have real impact!</p>
+<p>Feel free to take a look around my repositories! Reach out for any questions or if you want to collaborate :) I'm always open to creating new ideas with passionate people!</p>
 
 
 
