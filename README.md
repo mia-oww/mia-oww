@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <h2>Hi, I'm Mia :P! </h2>
+  <h1>Hi, I'm Mia :P! </h1>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlmdW50dmJ1Yzc2ZjMwdTJsNWtkeG45c3VkNHg1em40djN3NW56OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JNLLEJXoJSc8JbTU2U/giphy.gif" width="200" alt="monke"/>
 <hr>
 
@@ -62,4 +62,10 @@
 </table>
 
 
-Personal website coming soon!
+<h1 align="center"> A bit about me...</h2>
+<h2 alight="center"> I'm a current rising junior @ Emory studying CS + AI, with a passion for creating projects that have real impact!</h2>
+<h2>Feel free to take a look around my repositories! Reach out for any questions or if you want to collaborate :) I'm always open to creating new ideas with passionate people!</h2>
+
+
+
+
