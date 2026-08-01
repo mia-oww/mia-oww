@@ -2,9 +2,10 @@
 
 <div align="center">
   <h1>Hi, I'm Mia :P! </h1>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlmdW50dmJ1Yzc2ZjMwdTJsNWtkeG45c3VkNHg1em40djN3NW56OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JNLLEJXoJSc8JbTU2U/giphy.gif" width="200" alt="monke"/>
+<img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlmdW50dmJ1Yzc2ZjMwdTJsNWtkeG45c3VkNHg1em40djN3NW56OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JNLLEJXoJSc8JbTU2U/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo5YTVxcGY5NW9xaGo4eDQ4Y2g5NDh4dXFucW05MWV1ZGRteDduNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SazcqpR9b63r6t91LX/giphy.gif)" width="200" alt="sponge"/>
 <hr>
-<p alight="center"> I'm a current rising junior @ Emory studying CS + AI, with a passion for creating projects that have real impact!</p>
+<p align="center"> I'm a current rising junior @ Emory studying CS + AI, with a passion for creating projects that have real impact!</p>
+<p align="center"> Currently targetting SWE internships...</p>
 
 
 
@@ -64,7 +65,8 @@
 
 
 <h1 align="center"> A bit about me...</h2>
-<p>Feel free to take a look around my repositories! Reach out for any questions or if you want to collaborate :) I'm always open to creating new ideas with passionate people!</p>
+<p>I'm interested in full stack development and the whole software development cycle start to end!</p>
+<p>Feel free to take a look around my repositories~ Reach out for any questions or if you want to collaborate :) I'm always open to implementing new ideas with passionate people!</p>
 
 
 
